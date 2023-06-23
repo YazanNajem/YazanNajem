@@ -43,36 +43,16 @@ Software Engineer | Full stack Engineer
     <img align="center" src="https://www.svgrepo.com/show/32285/email.svg" height="30" width="40" />
   </a>
   
-  <a href="https://www.linkedin.com/in/makkahwi" target="_blank" style="padding: 0 15px;">
+  <a href="https://www.linkedin.com/in/seit-yazannajem/" target="_blank" style="padding: 0 15px;">
     <img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" height="30" width="40" />
   </a>
   
-  <a href="https://facebook.com/makkahwi" target="_blank" style="padding: 0 15px;">
-    <img align="center" src="https://www.svgrepo.com/show/111203/facebook.svg" height="30" width="40" />
-  </a>
-  
-  <a href="https://instagram.com/makkahwi" target="_blank" style="padding: 0 15px;">
-    <img align="center" src="https://www.svgrepo.com/show/111199/instagram.svg" height="30" width="40" />
-  </a>
-  
-  <a href="https://wasap.my/601128094804" target="_blank" style="padding: 0 15px;">
+  <a href="https://wasap.my/00971506206097" target="_blank" style="padding: 0 15px;">
     <img align="center" src="https://www.svgrepo.com/show/158412/whatsapp.svg" height="30" width="40" />
   </a>
   
-  <a href="https://t.me/makkahwi" target="_blank" style="padding: 0 15px;">
-    <img align="center" src="https://www.svgrepo.com/show/354443/telegram.svg" height="30" width="40" />
-  </a>
-  
-  <a href="tel:+962788424973" target="_blank" style="padding: 0 15px;">
+  <a href="tel:+971506206097" target="_blank" style="padding: 0 15px;">
     <img align="center" src="https://www.svgrepo.com/show/51247/phone.svg" height="30" width="40" />
-  </a>
-  
-  <a href="https://discordapp.com/users/772634530992619530" target="_blank" style="padding: 0 15px;">
-    <img align="center" src="https://www.svgrepo.com/show/343548/discord-communication-interaction-message-network.svg" height="30" width="40" />
-  </a>
-  
-  <a href="https://slack.com/app_redirect?channel=U02TS20JT8X" target="_blank" style="padding: 0 15px;">
-    <img align="center" src="https://www.svgrepo.com/show/355247/slack.svg" height="30" width="40" />
   </a>
 </p>
   
