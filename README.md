@@ -22,8 +22,6 @@ Software Engineer | Full stack Engineer
 ![Vue.Js](https://img.shields.io/badge/Vue.Js-%23323330.svg?&style=for-the-badge&logo=vue.js&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-%2314354C.svg?&style=for-the-badge&logo=wordpress&logoColor=white)
 
-![MySql](https://img.shields.io/badge/MySql-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![JQUERY](https://img.shields.io/badge/JQUERY-%23323330.svg?&style=for-the-badge&logo=jquery&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-%23323330.svg?&style=for-the-badge&logo=json&logoColor=white)
