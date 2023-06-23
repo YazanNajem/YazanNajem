@@ -4,7 +4,7 @@
 
 Software Engineer | Full stack Engineer
 --------------------------
-  <a style="text-decoration: none;" href="https://buymeacoffee.com/yazannajem" target="_blank">
+  <a style="text-decoration:none!important;" href="https://buymeacoffee.com/yazannajem" target="_blank">
   I'm more into soft drinks, but if you're buying coffee, I'll drink 
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" align="center"/>
   </a>
